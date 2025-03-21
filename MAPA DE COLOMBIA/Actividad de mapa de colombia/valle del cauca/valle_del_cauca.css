@@ -33,3 +33,13 @@ ul {
 ul li {
     padding: 5px 0;
 }
+
+.contenedor {
+    width: 100%;
+    text-align: center; 
+
+}
+img {
+    width:400px;
+    border-radius: 25px;
+}
